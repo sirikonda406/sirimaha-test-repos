@@ -6,6 +6,9 @@
 	</projects>
 	<buildSpec>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> branch 'test' of file:////Users/maheshsirikonda/Documents/GitHub/sirimaha-test-repos
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -20,9 +23,12 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+<<<<<<< HEAD
 =======
 	</buildSpec>
 	<natures>
 >>>>>>> refs/heads/master
+=======
+>>>>>>> branch 'test' of file:////Users/maheshsirikonda/Documents/GitHub/sirimaha-test-repos
 	</natures>
 </projectDescription>
