@@ -14,7 +14,7 @@ public class GitHubTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("hi git hello");
-		System.out.println("hi git hello");
+		System.out.println("hi git hello   ");
 
 	}
 
